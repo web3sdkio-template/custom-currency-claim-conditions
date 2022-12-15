@@ -72,4 +72,4 @@ fs.writeFileSync(path.join(path.dirname("."), "snapshot.csv"), csvString);
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
